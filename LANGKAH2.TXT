@@ -1,0 +1,19 @@
+PROGRESS buat versi MVC
+
+CREATE USER/ POST USER --done
+GET USER dan VIEW -- done
+UPDATE USER --done
+DELETE USER --done
+
+MOVIES
+GET MOVIES --done
+UPDATE -- done
+PUT http://localhost:3000/movies/
+buka body >> form data>>
+Key photo >> ubah type : file
+Value : pilih photo
+SEND
+
+CREATE/POST
+DELETE
+
