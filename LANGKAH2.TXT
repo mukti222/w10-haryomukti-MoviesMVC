@@ -7,13 +7,9 @@ DELETE USER --done
 
 MOVIES
 GET MOVIES --done
-UPDATE -- done
-PUT http://localhost:3000/movies/
-buka body >> form data>>
-Key photo >> ubah type : file
-Value : pilih photo
-SEND
-
-CREATE/POST
-DELETE
+UPDATE PHOTO-- done
+GET PHOTO OF MOVIES --DONE
+UPDATE MOVIE --DONE
+CREATE/POST --DONE
+DELETE -- DONE
 

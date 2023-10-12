@@ -16,6 +16,7 @@ app.set("views", path.join(__dirname, "views")); // Gunakan 'path' untuk menggab
 // Use the userRoutes for handling routes
 app.use("/user", userRoutes);
 
+app.use("/uploads",express.static(path.join(__dirname, 'uploads')));
 app.use("/movies", movieRoutes);
 
 // Listen on port 3000
